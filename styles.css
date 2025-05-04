@@ -13,5 +13,5 @@
     width: 425px;
     height: 150px;
     background-color: #efb762;
-    margin: 20px auto;
+    margin: 20px auto; /*20px para la parte superior e inferior y auto hara que este centrado*/
 } 
