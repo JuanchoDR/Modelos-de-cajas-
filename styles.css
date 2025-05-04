@@ -7,4 +7,5 @@
     border: black solid 50px;
     width: 500px;
     padding: 50px;
+    margin: 20px auto; /*20px para la parte superior e inferior y auto hara que este centrado*/
   }
