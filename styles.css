@@ -27,4 +27,5 @@
     width:91%;
     height: 28%;/*usando % en vez de pix para tambien modificar dimension*/
     background-color: #b20403;
+    margin: auto;
   }
