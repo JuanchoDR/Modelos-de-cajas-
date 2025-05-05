@@ -16,3 +16,7 @@
     background-color: #efb762;
     margin: 20px auto; /*20px para la parte superior e inferior y auto hara que este centrado*/
 } 
+
+.two{
+    width: 475px;
+  }
