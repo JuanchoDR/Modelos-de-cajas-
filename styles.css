@@ -3,6 +3,7 @@
     height: 600px;
     background-color: #4d0f00;
     overflow: hidden; /*Con el hidden valor, se recorta el desbordamiento y se oculta el resto del contenido:*/
+    filter:blur(2px); /*desenfocar*/
 }
 .frame{
     border: black solid 50px;
