@@ -18,6 +18,7 @@
     margin: 20px auto; /*20px para la parte superior e inferior y auto hara que este centrado*/
     box-shadow: 0 0 3px 3px #efb762;
     border-radius: 9px;
+    transform:rotate(-0.6deg);/*sirve para rotar un elemento HTML alrededor de su centro, creando un efecto de rotación 2D*/
 } 
 
 .two{
