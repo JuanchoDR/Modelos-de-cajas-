@@ -2,6 +2,7 @@
     width: 500px;
     height: 600px;
     background-color: #4d0f00;
+    overflow: hidden; /*Con el hidden valor, se recorta el desbordamiento y se oculta el resto del contenido:*/
 }
 .frame{
     border: black solid 50px;
@@ -15,3 +16,14 @@
     background-color: #efb762;
     margin: 20px auto; /*20px para la parte superior e inferior y auto hara que este centrado*/
 } 
+
+.two{
+    width: 475px;
+    height: 200px;
+    background-color: #8f0401;
+    margin: auto;
+  }
+  .three{
+    width:91%;
+    height: 28%;/*usando % en vez de pix para tambien modificar dimension*/
+  }
